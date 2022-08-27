@@ -5,8 +5,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "illuminate/config": "^8.74",
-        "illuminate/support": "^8.74",
+        "illuminate/config": "^8.74 || ^9.0",
+        "illuminate/support": "^8.74 || ^9.0",
         "symfony/process": "^5.4"
     },
     "autoload": {
