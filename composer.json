@@ -1,5 +1,5 @@
 {
-    "name": "logiek/laravel-google-lighthouse",
+    "name": "tobyjoiner/laravel-google-lighthouse",
     "description": "This package provides a wrapper for Google Lighthouse to audit the quality of web pages with Laravel.",
     "keywords": ["laravel", "google", "lighthouse"],
     "license": "MIT",
